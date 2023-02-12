@@ -1,6 +1,6 @@
 ### Olá, bem vindo(a) ao meu perfil!
 
-- 🖥 Atualmente cursando bacharel em Sistemas de Informações.
+- 🖥 Cursando 3º semestre de bacharel em Sistemas de Informações.
 - 📚 Estudando java.
 - 🖥 Estagiária BackEnd na área do mobile.
 
