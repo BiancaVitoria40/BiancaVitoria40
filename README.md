@@ -1,7 +1,8 @@
 ### Olá, bem vindo(a) ao meu perfil!
 
 - 🖥 Atualmente cursando bacharel em Sistemas de Informações.
-- 📚 Estudando html, css e javascript.
+- 📚 Estudando java.
+- 🖥 Estagiária BackEnd na area do mobile.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-HTML" height="25" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
