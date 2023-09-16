@@ -1,8 +1,8 @@
 ### Olá, bem vindo(a) ao meu perfil!
 
-- 🖥 Cursando 3º semestre de bacharel em Sistemas de Informações.
+- 🖥 Cursando 4º semestre de bacharel em Sistemas de Informações.
 - 📚 Estudando java.
-- 🖥 Estagiária BackEnd na área do mobile.
+- 🖥 Analista Junior BackEnd na área do mobile.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Java" height="25" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
