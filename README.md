@@ -12,10 +12,12 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/BiancaVitoria40">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BiancaVitoria40&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>          
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaVitoria40&layout=compact&langs_count=7&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaVitoria40&layout=compact&langs_count=7&theme=radical" />
+<br></br>
+<img src="https://streak-stats.demolab.com?user=BiancaVitoria40&theme=radical"/>
 </div>
+
 
   ##
 <div> 
