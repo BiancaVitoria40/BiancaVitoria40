@@ -2,7 +2,7 @@
 
 - 🖥 Desenvolvedora BackEnd Java na área do mobile há mais de 3 anos
 - 🖥 Bacharel em Sistemas de Informações
-- 🖥 Experiência básica com desenvolvimento de apps com Android e Flutter
+- 🖥 Experiência básica com desenvolvimento de apps com Android
 
 
 <div style="display: inline_block"><br>
